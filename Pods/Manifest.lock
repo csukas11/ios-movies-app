@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (5.0.5)
+  - AlignedCollectionViewFlowLayout (1.1.2)
+  - Cosmos (23.0.0)
+  - KeychainAccess (4.2.1)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SwiftPhotoGallery (3.4.1)
+  - Swinject (2.6.2)
+  - SwinjectStoryboard (2.2.0):
+    - Swinject (~> 2.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.2)
+  - AlignedCollectionViewFlowLayout (~> 1.1.2)
+  - Cosmos (~> 23.0)
+  - KeychainAccess
+  - Kingfisher (~> 5.13.2)
+  - Moya (~> 14.0.0)
+  - SwiftPhotoGallery
+  - Swinject (~> 2.6.2)
+  - SwinjectStoryboard (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlignedCollectionViewFlowLayout
+    - Cosmos
+    - KeychainAccess
+    - Kingfisher
+    - Moya
+    - SwiftPhotoGallery
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  KeychainAccess: 9b07f665298d13c3a85881bd3171f6f49b8151c1
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SwiftPhotoGallery: 795b79e2596beb160fb978e232603da0811006ce
+  Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
+  SwinjectStoryboard: 32512ef16c2b0ff5b8f823b23539c4a50f6d3383
+
+PODFILE CHECKSUM: 4fe74335fa4d647e6bcda16c92f848afad96a683
+
+COCOAPODS: 1.9.0
