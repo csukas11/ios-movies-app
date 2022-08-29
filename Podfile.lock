@@ -2,7 +2,7 @@ PODS:
   - Alamofire (5.0.5)
   - AlignedCollectionViewFlowLayout (1.1.2)
   - Cosmos (23.0.0)
-  - KeychainAccess (4.2.1)
+  - KeychainAccess (4.2.2)
   - Kingfisher (5.13.4):
     - Kingfisher/Core (= 5.13.4)
   - Kingfisher/Core (5.13.4)
@@ -42,7 +42,7 @@ SPEC CHECKSUMS:
   Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
   AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
   Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
-  KeychainAccess: 9b07f665298d13c3a85881bd3171f6f49b8151c1
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
   Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
   Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
   SwiftPhotoGallery: 795b79e2596beb160fb978e232603da0811006ce
@@ -51,4 +51,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 4fe74335fa4d647e6bcda16c92f848afad96a683
 
-COCOAPODS: 1.9.0
+COCOAPODS: 1.11.3
